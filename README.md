@@ -1,4 +1,4 @@
 # Digit Recognition Assignment
 <br>
-<img height="500" src="Screenshot(109).png"/>
+text="Herein I am submitting my test assignment"
 <br>
